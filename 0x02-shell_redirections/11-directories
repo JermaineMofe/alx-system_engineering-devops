@@ -1,2 +1,2 @@
 #!/bin/bssh
-find . -type d -not -name. | wc-l
+ls -l .vim | grep -c ^d
