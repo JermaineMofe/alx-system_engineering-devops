@@ -1,0 +1,1 @@
+redirecting commands script
